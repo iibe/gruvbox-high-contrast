@@ -12,7 +12,7 @@ function! gruvbox#invert_signs_toggle()
     let g:gruvbox_invert_signs=0
   endif
 
-  colorscheme gruvbox
+  colorscheme gruvbox-high-contrast
 endfunction
 
 " Search Highlighting {{{
