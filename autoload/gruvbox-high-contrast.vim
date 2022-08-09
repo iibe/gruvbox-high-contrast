@@ -1,7 +1,6 @@
 " -----------------------------------------------------------------------------
-" File: gruvbox.vim
-" Description: Retro groove color scheme for Vim
-" Author: iibe <kiibe@gmail.com>
+" File: gruvbox-high-contrast.vim
+" Author: iibe <kjiibe@gmail.com>
 " Source: https://github.com/iibe/gruvbox-high-contrast
 " Last Modified: 1 Aug 2022
 " -----------------------------------------------------------------------------

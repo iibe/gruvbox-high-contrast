@@ -1,6 +1,5 @@
 " -----------------------------------------------------------------------------
 " File: gruvbox-high-contrast.vim
-" Description: Gruvbox colorscheme for Airline (vim-airline/vim-airline)
 " Author: iibe <kjiibe@gmail.com>
 " Source: https://github.com/iibe/gruvbox-dark-contrast
 " Last Modified: 1 Aug 2022
