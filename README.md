@@ -25,7 +25,7 @@ colorscheme gruvbox-high-contrast
 set background=dark
 ```
 
-[![d-hard.png][img-gruvbox-d-hard]][img-gruvbox-d-hard]{:target="\_blank"}
+[![d-hard.png][img-gruvbox-d-hard]][img-gruvbox-d-hard]
 
 ### Light mode
 
