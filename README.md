@@ -25,7 +25,7 @@ colorscheme gruvbox-high-contrast
 set background=dark
 ```
 
-![Gruvbox High Contrast - Dark - Hard][img-gruvbox-d-hard]
+[![d-hard.png][img-gruvbox-d-hard]][img-gruvbox-d-hard]
 
 ### Light mode
 
@@ -36,7 +36,7 @@ colorscheme gruvbox-high-contrast
 set background=light
 ```
 
-![Gruvbox High Contrast - Light - Hard][img-gruvbox-l-hard]
+[![l-hard.png][img-gruvbox-l-hard]][img-gruvbox-l-hard]
 
 ## Quick start
 
