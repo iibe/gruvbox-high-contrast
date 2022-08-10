@@ -85,26 +85,26 @@ let s:is_dark=(&background == 'dark')
 let s:gb = {}
 
 " fill it with absolute colors
-let s:gb.dark0_hard  = ['#000000', 234]     " D 00-00-00 bg0_h
-let s:gb.dark0       = ['#070707', 235]     " D 07-07-07 bg0
-let s:gb.dark0_soft  = ['#0f0f0f', 236]     " D 15-15-15 bg0_s
-let s:gb.dark1       = ['#171717', 237]     " D 23-23-23 bg1
-let s:gb.dark2       = ['#504945', 239]     " 80-73-69
-let s:gb.dark3       = ['#665c54', 241]     " 102-92-84
-let s:gb.dark4       = ['#7c6f64', 243]     " 124-111-100
-let s:gb.dark4_256   = ['#7c6f64', 243]     " 124-111-100
+let s:gb.dark0_hard  = ['#000000', 234]     " D 000 #00 bg0_h
+let s:gb.dark0       = ['#070707', 235]     " D 007 #07 bg0
+let s:gb.dark0_soft  = ['#0f0f0f', 236]     " D 015 #0f bg0_s
+let s:gb.dark1       = ['#171717', 237]     " D 023 #17 bg1
+let s:gb.dark2       = ['#504945', 239]     " D XYZ #__ bg2
+let s:gb.dark3       = ['#665c54', 241]     " D XYZ #__ bg3
+let s:gb.dark4       = ['#7c6f64', 243]     " D XYZ #__ bg4
+let s:gb.dark4_256   = ['#7c6f64', 243]     " D XYZ #__ bg4_256
 
-let s:gb.gray_245    = ['#928374', 245]     " 146-131-116
-let s:gb.gray_244    = ['#928374', 244]     " 146-131-116
+let s:gb.gray_245    = ['#928374', 245]     " D XYZ #__ gray
+let s:gb.gray_244    = ['#928374', 244]     " L XYZ #__ gray
 
-let s:gb.light0_hard = ['#ffffff', 230]     " L 255-255-255 bg0_h
-let s:gb.light0      = ['#f7f7f7', 229]     " L 247-247-247 bg0
-let s:gb.light0_soft = ['#efefef', 228]     " L 239-239-239 bg0_s
-let s:gb.light1      = ['#e7e7e7', 223]     " L 231-231-231 bg1
-let s:gb.light2      = ['#d5c4a1', 250]     " 213-196-161
-let s:gb.light3      = ['#bdae93', 248]     " 189-174-147
-let s:gb.light4      = ['#a89984', 246]     " 168-153-132
-let s:gb.light4_256  = ['#a89984', 246]     " 168-153-132
+let s:gb.light0_hard = ['#ffffff', 230]     " L 255 #ff bg0_h
+let s:gb.light0      = ['#f7f7f7', 229]     " L 247 #f7 bg0
+let s:gb.light0_soft = ['#efefef', 228]     " L 239 #ef bg0_s
+let s:gb.light1      = ['#e7e7e7', 223]     " L 231 #e7 bg1
+let s:gb.light2      = ['#d5c4a1', 250]     " L XYZ #__ bg2
+let s:gb.light3      = ['#bdae93', 248]     " L XYZ #__ bg3
+let s:gb.light4      = ['#a89984', 246]     " L XYZ #__ bg4
+let s:gb.light4_256  = ['#a89984', 246]     " L XYZ #__ bg4_256
 
 let s:gb.bright_red     = ['#fb4934', 167]     " 251-73-52
 let s:gb.bright_green   = ['#b8bb26', 142]     " 184-187-38
